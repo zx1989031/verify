@@ -1,5 +1,5 @@
 {
-    "name": "zx/demo",
+    "name": "lightbluesky/demo",
     "description": "composer init",
     "type": "library",
     "require": {

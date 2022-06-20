@@ -1,5 +1,5 @@
 <?php
-namespace Demo;
+namespace lightbluesky\Demo;
 
 
 class Verify

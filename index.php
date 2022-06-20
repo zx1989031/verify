@@ -1,6 +1,6 @@
 <?php
 
-use Demo\Verify;
+use lightbluesky\Demo\Verify;
 
 header('content-type:text/html;charset=utf-8');
 
