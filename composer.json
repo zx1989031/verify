@@ -1,13 +1,8 @@
 {
     "name": "lightbluesky/demo",
-    "description": "composer init",
-    "type": "library",
-    "require": {
-        "php": ">=5.4.0"
-    },
     "autoload": {
         "psr-4": {
-            "Zx\\Demo\\": "src/"
+            "Lightbluesky\\Demo\\": "src/"
         }
     },
     "authors": [
@@ -16,5 +11,5 @@
             "email": "627720446@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "require": {}
 }
